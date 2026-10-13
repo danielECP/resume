@@ -6,18 +6,20 @@ Montreal, QC ・ (514) 294-0482 ・ [danny.peris@gmail.com](mailto:danny.peris@g
 
 ## PROFESSIONAL SUMMARY
 
-Accomplished Senior Software Developer with over 13 years of experience building, scaling, and optimizing high-availability backend systems and microservices. Proven track record in FinTech, specializing in Merchant Cash Advance (MCA) platforms, automated underwriting, and real-time risk evaluation systems. Strong expertise in TypeScript, Java, Kubernetes, GCP, and CI/CD pipelines, paired with recent initiatives in AI agent orchestration and workflow optimization.
+Senior Software Developer with 13+ years of experience building backend systems and microservices, including 8 years in FinTech on Lightspeed's Merchant Cash Advance (MCA) platform. Technical lead for underwriting automation (Instant Funding) and international launches that opened Capital products to 150+ new locations and brought in over $1.2M USD in fees in FY26. Strong in TypeScript, Java, Kubernetes, GCP and Datadog. Experienced Scrum Master and mentor, and led the team's adoption of AI development tools.
 
 ---
 
 ## TECHNICAL SKILLS
 
 - **Languages:** TypeScript, Java, Python, JavaScript, PHP, C\#, SQL
-- **Backend & Architecture:** Microservices Architecture, RESTful APIs, Event-Driven Systems, Node.js
-- **Cloud & DevOps:** Kubernetes, GCP (BigQuery), CircleCI, Datadog (APM & Monitoring), Docker
+- **Backend & Architecture:** Microservices Architecture, RESTful APIs, GraphQL, Event-Driven Systems, Node.js
+- **Frontend:** React, Next.js
+- **Cloud & DevOps:** Kubernetes, GCP, CircleCI, Docker
+- **Data & Observability:** Datadog (APM, SLOs, Monitors, Logs), BigQuery, Looker, Dataform, Heap
 - **AI & Automation:** Agent Orchestration, Model Context Protocol (MCP) Servers, OpenSpec, Prompt/Context Optimization
 - **Databases & Tools:** MySQL, Git
-- **Methodologies:** Agile/Scrum, High Availability Engineering, Incident Management
+- **Practices:** Technical Design Documents, Agile/Scrum (Scrum Master), Mentorship & Pair Programming, Incident Management
 
 ---
 
@@ -28,12 +30,15 @@ Accomplished Senior Software Developer with over 13 years of experience building
 **Senior Software Developer** ・ _2021 – Jul 2026_  
 **Software Developer** ・ _Aug 2018 – 2021_
 
-Architected, scaled, and maintained core microservices powering the Merchant Cash Advance (MCA) platform, driving automated risk evaluation, underwriting, and fund disbursement workflows handling high transaction volumes.
+Technical lead on Lightspeed Capital's Merchant Cash Advance platform, building the backend services behind offer generation, underwriting and funding.
 
-- **High-Scale Systems Architecture:** Engineered resilient, high-concurrency microservices deployed on Kubernetes, maintaining high availability for mission-critical offer generation and advance funding workflows.
-- **Observability & DevOps Efficiency:** Established enterprise-wide Datadog monitoring, tracing, and APM dashboards while optimizing CircleCI pipelines, significantly reducing deployment cycle times and Mean Time to Resolution (MTTR).
-- **Data Analytics & Insights:** Integrated GCP BigQuery to analyze financial telemetry, automate underwriting metrics, and optimize real-time risk decisioning engines.
-- **AI Tooling & Workflow Integration:** Spearheaded internal engineering R\&D on leveraging AI to streamline development workflows. Configured AI agent harnesses, MCP servers, and OpenSpec standards to automate routine processes while optimizing context strategies to minimize token usage and overhead.
+- **Underwriting Automation (Instant Funding):** Led the epic: wrote the technical design, built the code foundation, and coordinated stakeholders to deliver automated underwriting decisions.
+- **International & E-commerce Expansion:** Led the Switzerland launch and the expansion to Lightspeed's e-commerce product (C-Series), which opened Capital products to 150+ locations and generated over $1.2M USD in fees in FY26.
+- **Payments & Integrations:** Led automation for the GoCardless integration and the expansion of the Capital service. Co-designed Delta, a middleware microservice connecting the platform to Effectiv (third-party case management), and worked across teams on the integration.
+- **Technical Design:** Wrote design documents for major features, including Instant Funding and Delta, and made design reviews standard practice on the team.
+- **Reliability & Performance:** Added Datadog monitors, revised SLOs and standardized log facets. Removed redundant database indexes, which made queries faster and cut memory use.
+- **Team Leadership:** Scrum Master for several quarters, improving team processes and making retrospectives more useful. Go-to mentor for junior developers through pair programming, code review and walkthroughs of unfamiliar services.
+- **AI Tooling:** Led the team's adoption of AI development tools, guiding colleagues on models, plugins and practices. Set up agent harnesses, MCP servers and OpenSpec standards, and tuned context strategies to cut token usage.
 
 ---
 
